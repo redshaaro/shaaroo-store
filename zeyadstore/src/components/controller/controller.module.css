@@ -1,0 +1,16 @@
+.form {
+    padding: 1rem;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+.input{
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.title {
+
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

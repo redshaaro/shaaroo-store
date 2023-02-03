@@ -1,0 +1,49 @@
+.footer{
+    margin-top: 1rem;
+     
+}
+.container {
+  padding: 15px 20px;
+}
+.top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.head {
+  color: #585859;
+  font-weight: 500;
+}
+.left {
+  color: #016cc9;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.link {
+  margin-bottom: 1rem;
+  display: inline-block;
+  text-decoration: none;
+  color: gray;
+  font-size: 12px;
+}
+
+.col {
+  width: 20%;
+}
+.paragraph {
+  font-size: 11px;
+  color: #585859;
+}
+
+li {
+  list-style: none;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logos {
+  width: 100px;
+}

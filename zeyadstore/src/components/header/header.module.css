@@ -1,0 +1,59 @@
+/* HANDLING LEFT SECTION AND CONTAINER */
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.dropdown {
+    display: flex;
+
+    align-items: center;
+    width: fit-content;
+    margin-right: 1rem;
+
+
+}
+
+.dropdown img {
+    width: 35px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 15px 20px;
+    align-items: center;
+    
+
+
+}
+
+.link {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #181818;
+
+
+
+
+
+}
+
+/* HANDLING MID LOGO */
+.mid {
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+     
+     
+}
+.right{
+    display: flex;
+   align-items: center;
+}
+.cart{
+    margin-left: 1rem;
+    cursor: pointer;
+}
